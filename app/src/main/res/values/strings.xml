@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">portfolio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="spotify">Spotify Streamer</string>
+    <string name="scores">Scores App</string>
+    <string name="library">Library App</string>
+    <string name="bigger">Build It Bigger</string>
+    <string name="reader">My Reader</string>
+    <string name="myapp">My App</string>
+    <string name="nanodegree">Hello Nanodegree Apps!</string>
+    <string name="spotifytoast">This button will open the Spotify App!</string>
+    <string name="scorestoast">This button will open my Scores App!</string>
+    <string name="librarytoast">This button will open my Library App!</string>
+    <string name="biggertoast">This button will open my Build It Bigger App!</string>
+    <string name="readertoast">This button will open my Reader App!</string>
+    <string name="myapptoast">This button will open my own App!</string>
+</resources>
